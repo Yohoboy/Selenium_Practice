@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-09T18:29:54 IST" name="Default suite" finished-at="2024-10-09T18:30:12 IST" duration-ms="17393">
+    <groups>
+    </groups>
+    <test started-at="2024-10-09T18:29:54 IST" name="Default test" finished-at="2024-10-09T18:30:12 IST" duration-ms="17393">
+      <class name="ddtusingJDBC.Jdbc_to_VTiger">
+        <test-method signature="fetchDataFromJdbc()[pri:0, instance:ddtusingJDBC.Jdbc_to_VTiger@f0c8a99]" started-at="2024-10-09T18:29:55 IST" name="fetchDataFromJdbc" finished-at="2024-10-09T18:30:12 IST" duration-ms="17358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchDataFromJdbc -->
+      </class> <!-- ddtusingJDBC.Jdbc_to_VTiger -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
